@@ -8,7 +8,7 @@ Basic Local Alignment Search Tool (**BLAST**) finds regions of similarity betwee
 
 **BLAST Web Interface.**
 
-![BLAST Interface](blast_interface.png)
+![BLAST Interface](https://github.com/MuhammadMohsin404550/blast_guide/blob/main/asserts/blast_interface.png?raw=true)
 
 It has **Four** main tool.
 
